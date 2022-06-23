@@ -1,0 +1,12 @@
+{
+  "name": "PurchasingBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Christian Coduri",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.18",
+    "puppeteer": "^13.0.0"
+  }
+}
